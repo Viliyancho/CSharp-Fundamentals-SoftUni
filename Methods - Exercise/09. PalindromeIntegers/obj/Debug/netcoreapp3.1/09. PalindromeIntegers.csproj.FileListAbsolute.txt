@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\bin\Debug\netcoreapp3.1\09. PalindromeIntegers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\09. PalindromeIntegers\obj\Debug\netcoreapp3.1\09. PalindromeIntegers.genruntimeconfig.cache

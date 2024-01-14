@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07. ListManipulationAdvanced.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\07. ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07. ListManipulationAdvanced.csproj.AssemblyReference.cache

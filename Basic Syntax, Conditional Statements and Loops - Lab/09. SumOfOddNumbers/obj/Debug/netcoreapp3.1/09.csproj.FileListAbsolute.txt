@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\bin\Debug\netcoreapp3.1\09.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\09\obj\Debug\netcoreapp3.1\09.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\bin\Debug\netcoreapp3.1\01. CountRealNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\AssociativeArrays - Lab\01. CountRealNumbers\obj\Debug\netcoreapp3.1\01. CountRealNumbers.genruntimeconfig.cache

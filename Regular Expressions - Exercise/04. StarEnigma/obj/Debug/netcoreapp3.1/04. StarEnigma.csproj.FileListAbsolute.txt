@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\bin\Debug\netcoreapp3.1\04. StarEnigma.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Regular Expressions - Exercise\04. StarEnigma\obj\Debug\netcoreapp3.1\04. StarEnigma.genruntimeconfig.cache

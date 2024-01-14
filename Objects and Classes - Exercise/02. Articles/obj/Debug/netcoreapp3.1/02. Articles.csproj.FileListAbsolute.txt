@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.genruntimeconfig.cache

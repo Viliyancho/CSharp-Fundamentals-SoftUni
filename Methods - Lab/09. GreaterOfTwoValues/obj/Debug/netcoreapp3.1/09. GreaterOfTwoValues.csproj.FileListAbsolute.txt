@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.genruntimeconfig.cache

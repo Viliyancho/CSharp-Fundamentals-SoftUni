@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\bin\Debug\netcoreapp3.1\02. RepeatStrings.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\02. RepeatStrings\obj\Debug\netcoreapp3.1\02. RepeatStrings.genruntimeconfig.cache

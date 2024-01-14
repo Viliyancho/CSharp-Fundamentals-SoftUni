@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.genruntimeconfig.cache

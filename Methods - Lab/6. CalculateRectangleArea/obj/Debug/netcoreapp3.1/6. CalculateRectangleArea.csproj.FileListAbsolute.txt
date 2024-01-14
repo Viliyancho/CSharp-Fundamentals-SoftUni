@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\bin\Debug\netcoreapp3.1\6. CalculateRectangleArea.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Lab\6. CalculateRectangleArea\obj\Debug\netcoreapp3.1\6. CalculateRectangleArea.genruntimeconfig.cache

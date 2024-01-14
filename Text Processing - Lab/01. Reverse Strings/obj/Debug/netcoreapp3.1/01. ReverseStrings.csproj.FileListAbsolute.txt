@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. ReverseStrings.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. ReverseStrings.genruntimeconfig.cache

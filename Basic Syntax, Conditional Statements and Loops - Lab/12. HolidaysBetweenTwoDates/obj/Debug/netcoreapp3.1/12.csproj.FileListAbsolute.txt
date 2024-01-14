@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\bin\Debug\netcoreapp3.1\12.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.genruntimeconfig.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\12\obj\Debug\netcoreapp3.1\12.csproj.AssemblyReference.cache

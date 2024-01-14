@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\bin\Debug\netcoreapp3.1\04.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04\obj\Debug\netcoreapp3.1\04.genruntimeconfig.cache

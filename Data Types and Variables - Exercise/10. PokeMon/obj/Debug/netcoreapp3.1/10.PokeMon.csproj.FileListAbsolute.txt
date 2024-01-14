@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\bin\Debug\netcoreapp3.1\10.PokeMon.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\10.PokeMon\obj\Debug\netcoreapp3.1\10.PokeMon.genruntimeconfig.cache

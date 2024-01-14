@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\bin\Debug\netcoreapp3.1\06. VehicleCatalogue.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Objects and Classes - Exercise\06. VehicleCatalogue\obj\Debug\netcoreapp3.1\06. VehicleCatalogue.genruntimeconfig.cache

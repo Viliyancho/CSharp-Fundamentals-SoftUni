@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Exercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.genruntimeconfig.cache

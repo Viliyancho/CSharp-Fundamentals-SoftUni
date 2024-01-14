@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\7. MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\7. MaxSequenceOfEqualElements.genruntimeconfig.cache

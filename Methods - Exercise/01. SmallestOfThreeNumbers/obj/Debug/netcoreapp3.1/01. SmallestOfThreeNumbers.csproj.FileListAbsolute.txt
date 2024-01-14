@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Methods - Exercise\01. SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\01. SmallestOfThreeNumbers.genruntimeconfig.cache

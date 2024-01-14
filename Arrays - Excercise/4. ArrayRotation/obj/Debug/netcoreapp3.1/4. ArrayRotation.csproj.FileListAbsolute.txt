@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\bin\Debug\netcoreapp3.1\4. ArrayRotation.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\4. ArrayRotation\obj\Debug\netcoreapp3.1\4. ArrayRotation.genruntimeconfig.cache

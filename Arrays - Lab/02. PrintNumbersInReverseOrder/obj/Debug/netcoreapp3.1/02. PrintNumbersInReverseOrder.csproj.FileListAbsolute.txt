@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\02. PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02. PrintNumbersInReverseOrder.genruntimeconfig.cache

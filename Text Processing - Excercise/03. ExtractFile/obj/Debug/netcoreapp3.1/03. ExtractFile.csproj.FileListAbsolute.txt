@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\bin\Debug\netcoreapp3.1\03. ExtractFile.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Text Processing - Excercise\03. ExtractFile\obj\Debug\netcoreapp3.1\03. ExtractFile.genruntimeconfig.cache

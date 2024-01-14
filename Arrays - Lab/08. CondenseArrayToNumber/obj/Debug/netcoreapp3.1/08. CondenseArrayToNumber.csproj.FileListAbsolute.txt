@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08. CondenseArrayToNumber.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08. CondenseArrayToNumber.genruntimeconfig.cache

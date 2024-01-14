@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Data Types and Variables - Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesOfLatinLetters.genruntimeconfig.cache

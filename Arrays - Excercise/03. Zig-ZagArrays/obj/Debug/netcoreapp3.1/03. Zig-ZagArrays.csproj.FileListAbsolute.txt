@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\bin\Debug\netcoreapp3.1\03. Zig-ZagArrays.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Arrays - Excercise\03. Zig-ZagArrays\obj\Debug\netcoreapp3.1\03. Zig-ZagArrays.genruntimeconfig.cache

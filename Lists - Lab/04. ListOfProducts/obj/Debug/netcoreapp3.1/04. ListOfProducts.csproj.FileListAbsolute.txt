@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\bin\Debug\netcoreapp3.1\04. ListOfProducts.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Lists - Lab\04. ListOfProducts\obj\Debug\netcoreapp3.1\04. ListOfProducts.genruntimeconfig.cache

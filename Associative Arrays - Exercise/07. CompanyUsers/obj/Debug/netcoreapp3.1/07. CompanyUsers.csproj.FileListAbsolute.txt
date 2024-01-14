@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.exe
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.deps.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.runtimeconfig.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\bin\Debug\netcoreapp3.1\07. CompanyUsers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.AssemblyInfo.cs
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.dll
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.pdb
+C:\Users\Admin\Documents\SoftUni\C# Fundamentals\Associative Arrays - Exercise\07. CompanyUsers\obj\Debug\netcoreapp3.1\07. CompanyUsers.genruntimeconfig.cache
